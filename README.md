@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nikita, a fulltime Fullstack Developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [React Native Meet - an analog of Google Meet, but with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
+- 🔭 I’m currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
