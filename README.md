@@ -123,12 +123,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&hide_border=true&layout=compact" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&hide_border=true&layout=compact" align="center" height="300" width="300" /></div> 
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=NKolosov097&&style=flat-square" align="center" height="300" width="300" />
+<img src="https://komarev.com/ghpvc/?username=NKolosov097&&style=flat-square" align="center" />
 </div>  
   
 
