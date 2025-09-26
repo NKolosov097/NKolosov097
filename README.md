@@ -123,7 +123,11 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&hide_border=true&layout=compact" align="right" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&hide_border=true&layout=compact" align="center" /></div>    
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
