@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nikita, a fulltime Fullstack Developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
