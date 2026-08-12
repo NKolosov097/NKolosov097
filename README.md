@@ -4,18 +4,40 @@
   
 
 ### <div align="center">I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021 🚀</div>  
+
+### <div align="center">🌐 [nkolosov.com](https://nkolosov.com) — portfolio & case studies</div>
   
 
-- 🔭 I’m currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
+- 🔭 I'm currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I'm currently learning Hyperledger and Kubernetes  
   
 
 - ⚡ Fun fact: I have a Labrador and I'm into motorcycles.  
   
 
 <br/>  
+
+
+## Featured Projects
+
+<table><tr>
+<td valign="top" width="50%">
+
+### 🎥 [React Native Meet](https://github.com/NKolosov097/native-meet)
+Video meeting app with real-time AI facial expression analysis.
+
+</td>
+<td valign="top" width="50%">
+
+### 🌐 [Portfolio](https://nkolosov.com)
+Personal portfolio site — projects, case studies and contact info.
+
+</td>
+</tr></table>
+
+<br/>
 
 
 ## My Skill Set  
@@ -93,8 +115,23 @@
 <br/>  
 
 
+## GitHub Stats
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NKolosov097&show_icons=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&layout=compact" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NKolosov097" />
+</div>
+
+<br/>
+
+
 ## Connect with me  
 <div align="center">
+<a href="https://nkolosov.com" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/NKolosov097" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -130,3 +167,5 @@
 
 <div align="center"></div>
 <br />
+
+---
