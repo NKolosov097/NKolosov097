@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="30%" valign="middle" align="center">
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/NKolosov097/static/main/avatar.jpg&mask=circle&w=280&h=280&fit=cover" width="200" height="200" />
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/NKolosov097/static/main/avatar.jpg&w=280&h=280&fit=cover" width="200" height="200" />
 </td>
 <td width="70%" valign="middle">
 
