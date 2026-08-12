@@ -5,7 +5,7 @@
 </td>
 <td width="70%" valign="middle">
 
-### I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021
+### I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021 🚀
 
 🌐 [nkolosov.com](https://nkolosov.com) — portfolio & case studies
 
