@@ -117,8 +117,8 @@ Personal portfolio site — projects, case studies and contact info.
 
 ## GitHub Stats
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NKolosov097&show_icons=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKolosov097&layout=compact" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NKolosov097&show_icons=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NKolosov097&layout=compact" />
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKolosov097" />
