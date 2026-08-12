@@ -1,21 +1,21 @@
-<div align="center">
-<img src="https://github.com/NKolosov097/static/blob/main/avatar.jpg?raw=true" align="center" height="300" width="300" style="border-radius: 50%;" />
-</div>  
-  
+<table>
+<tr>
+<td width="30%" valign="middle" align="center">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/NKolosov097/static/main/avatar.jpg&mask=circle&w=280&h=280&fit=cover" width="220" height="220" />
+</td>
+<td width="70%" valign="middle">
 
-### <div align="center">I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021 🚀</div>  
+### I'm Nikita, a Senior Software Engineer 👨‍💻 working since 2021 🚀
 
-### <div align="center">🌐 [nkolosov.com](https://nkolosov.com) — portfolio & case studies</div>
-  
+🌐 [nkolosov.com](https://nkolosov.com) — portfolio & case studies
 
-- 🔭 I'm currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)  
-  
+- 🔭 I'm currently working on [React Native Meet with AI Facial Expression Analyzer](https://github.com/NKolosov097/native-meet)
+- 🌱 I'm currently learning Hyperledger and Kubernetes
+- ⚡ Fun fact: I have a Labrador and I'm into motorcycles.
 
-- 🌱 I'm currently learning Hyperledger and Kubernetes  
-  
-
-- ⚡ Fun fact: I have a Labrador and I'm into motorcycles.  
-  
+</td>
+</tr>
+</table>
 
 <br/>  
 
