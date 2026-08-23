@@ -5,6 +5,10 @@ Software Engineer specializing in **React, React Native, TypeScript, and Node.js
 I build production-ready web and mobile applications with a focus on architecture,
 real-time experiences, testing, accessibility, and performance.
 
+I also have commercial experience integrating AI providers into production
+applications, including user-facing AI workflows, API integration, error handling,
+and reliability concerns. Further implementation details are confidential under NDA.
+
 [Portfolio](https://nkolosov.com) ·
 [CV](https://nkolosov.com/assets/cv/cv-nikita-kolosov.pdf) ·
 [LinkedIn](https://www.linkedin.com/in/nkolosov097) ·
@@ -56,6 +60,7 @@ structures loaded from the Protein Data Bank.
 - **Web:** React, Next.js, TypeScript, accessible and responsive interfaces
 - **Mobile:** React Native, Expo, native integrations, real-time audio and video
 - **Backend:** Node.js, PostgreSQL, Prisma, API design, validation
+- **AI integrations:** third-party AI providers, production API integration, user-facing AI workflows, and resilient error handling
 - **Quality:** unit, integration, and end-to-end testing; strict typing; code review
 - **Delivery:** Docker, CI/CD, Linux, production-oriented configuration
 
