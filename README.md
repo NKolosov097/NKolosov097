@@ -16,7 +16,7 @@ and reliability concerns. Further implementation details are confidential under 
 
 ## Featured projects
 
-### [NK Meet](https://github.com/NKolosov097/native-meet)
+### [NK Meet](https://github.com/NKolosov097/nk-meet)
 
 A cross-platform video meeting application built with React Native, Expo,
 TypeScript, and LiveKit.
@@ -26,7 +26,7 @@ TypeScript, and LiveKit.
 - Typed room state, validation, and user-facing error handling
 - Accessibility support and integration tests
 
-[Source code](https://github.com/NKolosov097/native-meet)
+[Source code](https://github.com/NKolosov097/nk-meet)
 
 ### [Portfolio](https://nkolosov.com)
 
