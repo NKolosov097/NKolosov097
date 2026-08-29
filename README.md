@@ -66,7 +66,7 @@ structures loaded from the Protein Data Bank.
 
 ## A little more about me
 
-I have been building software professionally since 2021. Outside engineering,
+I have been building software professionally since 2021. Outside engineering.
 I spend time with my Labrador and enjoy motorcycles.
 
 If you are building a web or mobile product and think I could help,
