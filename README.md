@@ -11,10 +11,24 @@ and reliability concerns. Further implementation details are confidential under 
 
 [Portfolio](https://nkolosov.com) ·
 [CV](https://nkolosov.com/assets/cv/cv-nikita-kolosov.pdf) ·
-[LinkedIn](https://www.linkedin.com/in/nkolosov097) ·
 [Email](mailto:NKolosov097@gmail.com)
 
 ## Featured projects
+
+### [Clinical Cases](https://github.com/NKolosov097/clinical-cases)
+
+A full-stack clinical-case trainer: an author turns free clinical text into a
+structured case with Gemini-assisted extraction, a learner answers, and grading
+is deterministic.
+
+- FastAPI, SQLAlchemy 2, and PostgreSQL 17 behind Next.js 16 Server Components
+- Gemini structured output validated with Pydantic; grading is exact-match against a human-supplied reference, never an LLM judgment call
+- TypeScript types generated from the OpenAPI contract, with CI failing on drift
+- pytest, Vitest, Playwright, and pixel-diff screenshot regression
+- Deployed to Cloud Run and Cloud SQL with OpenTelemetry tracing
+
+[Live demo](https://eximion-frontend-497115726994.europe-west3.run.app) ·
+[Source code](https://github.com/NKolosov097/clinical-cases)
 
 ### [NK Meet](https://github.com/NKolosov097/nk-meet)
 
@@ -59,7 +73,7 @@ structures loaded from the Protein Data Bank.
 
 - **Web:** React, Next.js, TypeScript, accessible and responsive interfaces
 - **Mobile:** React Native, Expo, native integrations, real-time audio and video
-- **Backend:** Node.js, PostgreSQL, Prisma, API design, validation
+- **Backend:** Node.js, Python (FastAPI), PostgreSQL, Prisma, SQLAlchemy, API design, validation
 - **AI integrations:** third-party AI providers, production API integration, user-facing AI workflows, and resilient error handling
 - **Quality:** unit, integration, and end-to-end testing; strict typing; code review
 - **Delivery:** Docker, CI/CD, Linux, production-oriented configuration
@@ -70,5 +84,4 @@ I have been building software professionally since 2021. Outside engineering.
 I spend time with my Labrador and enjoy motorcycles.
 
 If you are building a web or mobile product and think I could help,
-[send me an email](mailto:NKolosov097@gmail.com) or connect with me on
-[LinkedIn](https://www.linkedin.com/in/nkolosov097).
+[send me an email](mailto:NKolosov097@gmail.com).
