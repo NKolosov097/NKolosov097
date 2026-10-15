@@ -88,20 +88,6 @@ structures loaded from the Protein Data Bank.
 [Live demo](https://nkolosov097.github.io/protein-web/) ·
 [Source code](https://github.com/NKolosov097/protein-web)
 
-## Also public
-
-- **[Ekatoris Art](https://github.com/NKolosov097/ekatorissart)** — trilingual
-  (English, Russian, Arabic with RTL) e-commerce storefront on Next.js and
-  Drizzle ORM. Stripe Checkout re-validates price and availability server-side,
-  and the order webhook is idempotent; the site degrades gracefully when the
-  database, payments, or email provider are unconfigured.
-- **[Blob](https://github.com/NKolosov097/BLOB)** — a social network in progress,
-  built as a modular Go monolith with a Nuxt client and Docker Compose. Early
-  stage: the platform foundation is in place.
-- **[Auth Backend](https://github.com/NKolosov097/auth-backend)** — a compact
-  Express and MongoDB REST API with JWT auth, per-user resources, validation, and
-  image upload.
-
 ## Engineering strengths
 
 - **Web:** React, Next.js, TypeScript, Server Components, accessible and responsive interfaces
