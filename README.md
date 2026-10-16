@@ -36,19 +36,6 @@ is deterministic.
 [Live demo](https://eximion-frontend-497115726994.europe-west3.run.app) ·
 [Source code](https://github.com/NKolosov097/clinical-cases)
 
-### [Auth Service](https://github.com/NKolosov097/auth-service)
-
-An authentication microservice in Go over a JSON HTTP API, written with the
-threat model in mind rather than the happy path.
-
-- Email/password, Google OAuth2 (OpenID Connect), and Telegram Login Widget
-- Short-lived JWT access tokens with rotating refresh tokens, stored only as SHA-256 hashes
-- Password reset and email change via expiring confirmation links
-- Per-IP rate limiting, request and header size limits, security headers on every response
-- Structured logging with `log/slog`, graceful shutdown, PostgreSQL migrations
-
-[Source code](https://github.com/NKolosov097/auth-service)
-
 ### [NK Meet](https://github.com/NKolosov097/nk-meet)
 
 A cross-platform video meeting application built with React Native, Expo,
